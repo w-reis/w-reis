@@ -27,4 +27,6 @@ The study never ends!
 
 Essa listinha tem muito a crescer :) Mas antes, a primeira listinha 🚀
 #### Contribuições:
-[![Wellinton's github stats](https://github-readme-stats.vercel.app/api?username=w-reis&show_icons=true&theme=react)](https://github.com/w-reis)
+[![Wellinton's github stats](https://github-readme-stats.vercel.app/api?username=w-reis&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-reis&layout=compact&show_icons=true&theme=react)](https://github.com/w-reis)
+
