@@ -11,19 +11,16 @@
 ### 💻️ Desenvolvedor em formação... 🔧️
 
 #### Em fase de aprendizagem e aprimoramento:
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="16"> HTML5
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="16"> CSS3
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="16"> JavaScript
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="16"> React
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="16"> TypeScript 
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="16"> Node.js
+<img src="https://is.gd/8mNBgF" width="16"> HTML5
+  •  <img src="https://is.gd/bIwDx8" width="16"> CSS3
+  •  <img src="https://is.gd/Jey6YD" width="16"> JavaScript
+  •  <img src="https://is.gd/yyyB1Y" width="16"> React
+  •  <img src="https://is.gd/PkoNPX" width="16"> TypeScript 
+  •  <img src="https://is.gd/LyRyBX" width="16"> Node.js
 
 The study never ends!
 #### Estou de olho em:
-- <img src="https://is.gd/6mPtR4" width="16"> GraphQL
-- <img src="https://is.gd/kigFCI" width="16"> Next.js
-- <img src="https://is.gd/LJZXVg" width="16"> Gatsby JS
-- <img src="https://is.gd/Af5Zd2" width="16"> Docker
+<img src="https://is.gd/6mPtR4" width="16"> GraphQL <img src="https://is.gd/kigFCI" width="16"> • Next.js <img src="https://is.gd/LJZXVg" width="16"> • Gatsby JS <img src="https://is.gd/Af5Zd2" width="16"> • Docker
 
 Essa listinha tem muito a crescer :) Mas antes, a primeira listinha 🚀
 #### Contribuições:
