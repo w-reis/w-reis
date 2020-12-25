@@ -4,10 +4,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/w-reis)](https://github.com/w-reis)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0072C6?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:wellinton.reis@fatec.sp.gov.br)](mailto:wellinton.reis@fatec.sp.gov.br)
 
-
-🌱 Estudante do 6º Período do curso de Análise e Desenvolvimento de Sistemas.
-
-
 ### 💻️ Desenvolvedor em formação... 🔧️
 
 #### Em fase de aprendizagem e aprimoramento:
@@ -18,7 +14,7 @@
   •  <img src="https://is.gd/PkoNPX" width="16"> TypeScript 
   •  <img src="https://is.gd/LyRyBX" width="16"> Node.js
 
-Never stop learning!
+🌱 Never stop learning!
 #### Estou de olho em:
 <img src="https://is.gd/6mPtR4" width="16"> GraphQL <img src="https://is.gd/kigFCI" width="16"> • Next.js <img src="https://is.gd/LJZXVg" width="16"> • Gatsby JS <img src="https://is.gd/Af5Zd2" width="16"> • Docker
 
