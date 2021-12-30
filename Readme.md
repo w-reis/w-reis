@@ -10,9 +10,9 @@
 <img src="https://is.gd/8mNBgF" width="16"> HTML5
   •  <img src="https://is.gd/bIwDx8" width="16"> CSS3
   •  <img src="https://is.gd/Jey6YD" width="16"> JavaScript
+  •  <img src="https://is.gd/PkoNPX" width="16"> TypeScript
   •  <img src="https://is.gd/yyyB1Y" width="16"> React
   •  <img src="https://is.gd/yyyB1Y" width="16"> React Native
-  •  <img src="https://is.gd/PkoNPX" width="16"> TypeScript
   •  <img src="https://is.gd/z0cinh" width="16"> Vue.js
   •  <img src="https://is.gd/LyRyBX" width="16"> Node.js
   
